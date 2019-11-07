@@ -11,21 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Chemistry (major: organic chemistry), Sofia University, Bulgaria, 2014
+* M.Sc. in Chemistry (major: physical chemistry), University of Helsinki, Finland, 2016
+* Ph.D in Quantum Chemistry, University of Helsinki, Finland, 2019  
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Autumn 2018: Teaching Assistant
+  * University of Helsinki
+  * Duties included: Preparing computer exercises for the M.Sc. level course Molecular Electronic Structure; setting up software on the university cluster; introducing the students to Linux
+  * Supervisor: Prof. Dage Sundholm
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer and autumn 2016: Researcher
+  * University of Helsinki
+  * Duties included: Writing a 1D numerical program based on the finite-elements method to solve the Schrödinger equation for a rotating molecule; doing calculations of magnetically induced currents in small molecules
+  * Supervisor: Prof. Dage Sundholm
+  
+* Summer 2015: Summer Researcher
+  * University of Helsinki
+  * Duties included: Performing DFT calculations on ionic liquids clusters, analysis of the data; writing my M.Sc. thesis
+  * Supervisor: Prof. Dage Sundholm
+  
+* Summer 2014: Summer Researcher
+  * University of Helsinki
+  * Duties included: Performing DFT calculations on ionic liquids with the TURBOMOLE software package
+  * Supervisor: Prof. Dage Sundholm
   
 Skills
 ======
