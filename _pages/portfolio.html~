@@ -8,9 +8,5 @@ author_profile: true
 {% include base_path %}
 
 
-[//] # {% for post in site.portfolio %}
-[//] #  {% include archive-single.html %}
-[//] # {% endfor %}
-
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/126581253@N02/20210213886/in/dateposted/" title="IMG_3886"><img src="https://live.staticflickr.com/425/20210213886_e9006f9aab_k.jpg" width="2048" height="1365" alt="IMG_3886"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
